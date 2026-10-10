@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "gjchcjg11-sys",
+    "email": "gjchcjg11-sys@users.noreply.github.com"
+  },
+  "domain": "midad",
+  "records": {
+    "CNAME": "gjchcjg11-sys.github.io"
+  }
+}
